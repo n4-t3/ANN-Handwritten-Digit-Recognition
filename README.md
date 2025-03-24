@@ -4,7 +4,7 @@ This project implements a simple Artificial Neural Network (ANN) from scratch to
 
 ## Dataset
 
-The dataset used in this project is the **MNIST** dataset, which contains 28x28 grayscale images of handwritten digits (0-9). You can find the dataset in CSV format [here](https://pjreddie.com/projects/mnist-in-csv/).
+The dataset used in this project is the **MNIST** dataset, which contains 28x28 grayscale images of handwritten digits (0-9). You can find the dataset in CSV format [GTDLBench](https://git-disl.github.io/GTDLBench/datasets/mnist_datasets/).
 
 ### Instructions for Using the Dataset:
 1. Download the MNIST dataset in CSV format from the link above.
