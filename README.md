@@ -25,6 +25,18 @@ The ANN model consists of:
 - A hidden layer with a configurable number of neurons (default set to 128).
 - An output layer with 10 neurons (one for each digit).
 
+## Model Testing Results
+
+After training the model, it was evaluated using the test dataset. The resulting prediction is shown in the image below:
+
+![Model Prediction Result](prediction.png)
+
+**Note:** The results of the model are not entirely reliable as the model's performance can be improved significantly. Possible ways to improve the model include:
+- **Increasing the number of neurons in the hidden layer** to improve learning capacity.
+- **Using a more advanced optimization algorithm** like Adam instead of basic gradient descent.
+- **Implementing regularization techniques** (e.g., dropout) to prevent overfitting.
+- **Expanding the dataset** with more samples to improve generalization.
+
 ## License
 
 This project is licensed under the BEER-WARE License - see the [LICENSE](LICENSE) file for details.
